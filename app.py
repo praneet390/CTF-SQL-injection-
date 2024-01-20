@@ -9,8 +9,8 @@ users = {'admin': 'user0', 'user1': 'user2', 'user2': 'admin2'}
 
 db = mysql.connector.connect(
     host="localhost",
-    user="Praneet",
-    password="Tenkila75",
+    user="username",
+    password="passwd",
     database="ctf"
 )
 
